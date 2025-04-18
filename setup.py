@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mongohelper",  # 项目名称
+    name="mongo_pythonic",  # 项目名称
     version="0.1.0",  # 版本号
     author="guai_xiao",  # 作者姓名
     license="GPL-3.0",
