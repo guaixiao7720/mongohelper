@@ -1,3 +1,6 @@
+```angular2html
+pip install mongo-pythonic
+```
 As we all know, MongoDB is a very good nosql database, but pymongo is a **violent transplant from C# binding**.
 This project repackages pymongo, making full use of dynamic type features to make MongoDB more **pythonic**.
 
